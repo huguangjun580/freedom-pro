@@ -1,8 +1,7 @@
-
-1、小程序根据code登录并返回json object。
+一、小程序根据code登录并返回json object。
 示例：{"session_key":"2Yvg1qCsW+lhbg=XX","openid":"o_UzA4tmBROpoUjLPID-t1kNXXXX"}
 
-2、小程序获取accessToken并返回json object。
+二、小程序获取accessToken并返回json object。
 示例：{"access_token":"46D2fxxx","expires_in":7200}
 
 
