@@ -7,12 +7,14 @@
 
 
 1、要使用的项目中先引入pom依赖。<br/>
+`
+<dependency>
+    <groupId>cn.qlfbbs.its</groupId>
+    <artifactId>wx-applet</artifactId>
+    <version>1.0.1</version>
+</dependency>
+`
 
-<dependency><br/>
-    <groupId>cn.qlfbbs.its</groupId><br/>
-    <artifactId>wx-applet</artifactId><br/>
-    <version>1.0.1</version><br/>
-</dependency><br/>
 2、yml或yaml中配置小程序的appId、secret（这里必要核心动态配置最多的就是这两个属性，其它均采用默认）。<br/>
 
 小程序参数配置<br/>
