@@ -1,4 +1,5 @@
- **微信小程序开发之登录组件包** <br/>
+ **微信小程序开发之登录组件包
+ 
 1、小程序根据code登录并返回json object。
 示例：{"session_key":"2Yvg1qCsW+lhbg=XX","openid":"o_UzA4tmBROpoUjLPID-t1kNXXXX"}
 
