@@ -8,7 +8,7 @@
 
 1、要使用的项目中先引入pom依赖。<br/>
 `
-<dependency><br/>
+<dependency>
     <groupId>cn.qlfbbs.its</groupId>
     <artifactId>wx-applet</artifactId>
     <version>1.0.1</version>
