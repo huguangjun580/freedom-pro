@@ -6,21 +6,21 @@
 示例：{"access_token":"46D2fxxx","expires_in":7200}
 
 
-1、要使用的项目中先引入pom依赖。
+1、要使用的项目中先引入pom依赖。<br/>
 
-<dependency>
-    <groupId>cn.qlfbbs.its</groupId>
-    <artifactId>wx-applet</artifactId>
-    <version>1.0.1</version>
-</dependency>
-2、yml或yaml中配置小程序的appId、secret（这里必要核心动态配置最多的就是这两个属性，其它均采用默认）。
+<dependency><br/>
+    <groupId>cn.qlfbbs.its</groupId><br/>
+    <artifactId>wx-applet</artifactId><br/>
+    <version>1.0.1</version><br/>
+</dependency><br/>
+2、yml或yaml中配置小程序的appId、secret（这里必要核心动态配置最多的就是这两个属性，其它均采用默认）。<br/>
 
-小程序参数配置
-applet:
-  appId: wx9f394feb2xxxxxxxxxx
-  secret: bb8a9c9c21xxxxxxxxxx
+小程序参数配置<br/>
+applet:<br/>
+  appId: wx9f394feb2xxxxxxxxxx<br/>
+  secret: bb8a9c9c21xxxxxxxxxx<br/>
 
-元数据可配置选项：
+元数据可配置选项：<br/>
 
 {
   "properties": [
