@@ -15,10 +15,11 @@
 </dependency>
 2、yml或yaml中配置小程序的appId、secret（这里必要核心动态配置最多的就是这两个属性，其它均采用默认）。
 
-# 小程序参数配置
+小程序参数配置
 applet:
   appId: wx9f394feb2xxxxxxxxxx
   secret: bb8a9c9c21xxxxxxxxxx
+
 元数据可配置选项：
 
 {
