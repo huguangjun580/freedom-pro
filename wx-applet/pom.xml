@@ -6,9 +6,15 @@
 
     <groupId>cn.qlfbbs.its</groupId>
     <artifactId>wx-applet</artifactId>
+<<<<<<< HEAD
     <version>2.0.0</version>
     <packaging>pom</packaging>
     <!--<packaging>jar</packaging>-->
+=======
+    <version>1.0.1</version>
+    <!-- <packaging>pom</packaging> -->
+    <packaging>jar</packaging>
+>>>>>>> 5980dfb33fa045290ebdb8276bb7e03867c6ed9a
 
     <properties>
         <name>wx-applet</name>
@@ -223,4 +229,8 @@
     </repositories>
 
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 5980dfb33fa045290ebdb8276bb7e03867c6ed9a
